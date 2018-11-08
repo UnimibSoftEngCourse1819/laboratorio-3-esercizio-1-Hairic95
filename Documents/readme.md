@@ -1,0 +1,1 @@
+ignorare la cartella "laboratorio 3"
